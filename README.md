@@ -10,7 +10,7 @@ For the 10 years, data from players, teams, coaches, games and several other met
 
 ## 
 
-### 1. Installing dependencies
+### Installing dependencies
 
 Make sure you have installed the dependencies listed in ```specs.txt```. 
 To install them, go to the project's root and run this command on the terminal to install all the necessary dependencies:
