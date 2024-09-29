@@ -8,6 +8,8 @@ For the 10 years, data from players, teams, coaches, games and several other met
 
 ---
 
+![diagram](./img/diagram.png)
+
 ## 
 
 ### Installing dependencies
