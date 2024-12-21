@@ -20,3 +20,11 @@ To install them, go to the project's root and run this command on the terminal t
 ```bash
 pip install -r specs.txt
 ```
+
+### TEST
+Run the files in the following order
+- processing.ipynb
+- analysis.ipynb
+- playerNotebook.ipynb
+- coaches.ipynb
+- training.ipynb
